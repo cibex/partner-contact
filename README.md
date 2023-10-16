@@ -37,6 +37,7 @@ addon | version | maintainers | summary
 [partner_bank_code](partner_bank_code/) | 16.0.1.0.1 |  | Add fields information in banks
 [partner_capital](partner_capital/) | 16.0.0.1.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Partners Capital
 [partner_company_default](partner_company_default/) | 16.0.1.0.0 |  | Partner Company Default
+[partner_company_group](partner_company_group/) | 16.0.1.0.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Adds the possibility to add a company group to a company
 [partner_company_type](partner_company_type/) | 16.0.1.0.0 |  | Adds a company type to partner that are companies
 [partner_contact_access_link](partner_contact_access_link/) | 16.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Allow to visit the full contact form from a company
 [partner_contact_address_default](partner_contact_address_default/) | 16.0.1.0.0 |  | Set a default delivery and invoice address for contacts
@@ -56,6 +57,7 @@ addon | version | maintainers | summary
 [partner_fax](partner_fax/) | 16.0.1.0.0 |  | Add fax number on partner
 [partner_firstname](partner_firstname/) | 16.0.1.0.1 |  | Split first name and last name for non company partners
 [partner_identification](partner_identification/) | 16.0.1.0.2 |  | Partner Identification Numbers
+[partner_identification_gln](partner_identification_gln/) | 16.0.1.0.0 |  | This addon extends "Partner Identification Numbers" to provide a number category for GLN registration
 [partner_industry_secondary](partner_industry_secondary/) | 16.0.1.0.0 |  | Add secondary partner industries
 [partner_interest_group](partner_interest_group/) | 16.0.1.1.0 | [![victor-champonnois](https://github.com/victor-champonnois.png?size=30px)](https://github.com/victor-champonnois) | Add Interest Group to Partners
 [partner_manual_rank](partner_manual_rank/) | 16.0.1.1.1 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) [![frahikLV](https://github.com/frahikLV.png?size=30px)](https://github.com/frahikLV) | Be able to manually flag partners as customer or supplier.
