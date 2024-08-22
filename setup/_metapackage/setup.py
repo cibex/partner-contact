@@ -42,6 +42,7 @@ setuptools.setup(
         'odoo-addon-partner_contact_lang>=16.0dev,<16.1dev',
         'odoo-addon-partner_contact_nationality>=16.0dev,<16.1dev',
         'odoo-addon-partner_contact_personal_information_page>=16.0dev,<16.1dev',
+        'odoo-addon-partner_contact_role>=16.0dev,<16.1dev',
         'odoo-addon-partner_contact_tags_in_popup>=16.0dev,<16.1dev',
         'odoo-addon-partner_contact_type_end_user>=16.0dev,<16.1dev',
         'odoo-addon-partner_country_state_required>=16.0dev,<16.1dev',
@@ -75,6 +76,7 @@ setuptools.setup(
         'odoo-addon-partner_purchase_manager>=16.0dev,<16.1dev',
         'odoo-addon-partner_ref_unique>=16.0dev,<16.1dev',
         'odoo-addon-partner_second_lastname>=16.0dev,<16.1dev',
+        'odoo-addon-partner_shipping_policy>=16.0dev,<16.1dev',
         'odoo-addon-partner_stage>=16.0dev,<16.1dev',
         'odoo-addon-partner_subject_to_vat>=16.0dev,<16.1dev',
         'odoo-addon-partner_tier_validation>=16.0dev,<16.1dev',
@@ -82,6 +84,7 @@ setuptools.setup(
         'odoo-addon-partner_vat_unique>=16.0dev,<16.1dev',
         'odoo-addon-purchase_supplier_rank>=16.0dev,<16.1dev',
         'odoo-addon-sale_customer_rank>=16.0dev,<16.1dev',
+        'odoo-addon-sale_partner_address_restrict>=16.0dev,<16.1dev',
         'odoo-addon-sale_partner_company_group>=16.0dev,<16.1dev',
     ],
     classifiers=[
